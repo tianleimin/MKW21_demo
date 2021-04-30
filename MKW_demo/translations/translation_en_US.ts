@@ -211,10 +211,15 @@
     <context>
         <name>behavior_1/behavior.xar:/Animated Say (20)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>When I open my eyes, during 30 seconds, when you show me something that is red and round, like an apple, I will be a happy robot. If I can’t see anything that is red and round, I will be a sad robot.</source>
             <comment>Text</comment>
-            <translation type="unfinished">When I open my eyes, during 30 seconds, when you show me something that is red and round, like an apple, I will be a happy robot. If I can’t see anything that is red and round, I will be a sad robot.</translation>
+            <translation type="obsolete">When I open my eyes, during 30 seconds, when you show me something that is red and round, like an apple, I will be a happy robot. If I can’t see anything that is red and round, I will be a sad robot.</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>When I open my eyes, when you show me something that is red and round, like an apple, I will be a happy robot. If I can’t see anything that is red and round, I will be a sad robot.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">When I open my eyes, when you show me something that is red and round, like an apple, I will be a happy robot. If I can’t see anything that is red and round, I will be a sad robot.</translation>
         </message>
     </context>
     <context>
@@ -292,7 +297,7 @@
     <context>
         <name>behavior_1/behavior.xar:/Animated Say (29)</name>
         <message>
-            <location filename="../../../../../../../../Choregraphe/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../Choregraphe/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
